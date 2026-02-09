@@ -56,3 +56,8 @@ POST /api/chat      # Natural language interaction
 > Detailed design documentation available in `/docs` directory
 
 ![System Interface Overview](Figures/image.png)
+
+## Acknowledgement
+
+This work was supervised by Associate Professor Tianyi Li, Professor Kristian Torp, and Professor Christian S. Jensen at Aalborg University, as part of the [DIREC](https://direc.dk) project on [Multimodal Data Processing of Earth Observation Data](https://direc.dk/multimodal-data-processing-of-earth-observation-data/).
+
